@@ -4,3 +4,10 @@ I've been trying to learn Rails on and off for a few months.  I've read some boo
 The first 30 days will be dedicated to consuming as much information as I can and building a few simple web applications as I can to gain a better foundational understanding of Rails.  The second 30 days, will be devoted to creating a web app.  What web app?  That's a great question.  One that I will figure this out in the first 30 days.
 
 My plan is to perform a daily update via an entry on this site to document my journey.  
+
+
+### Daily Entries
+[Daily Entries](entries.md)
+
+### Resources I've Used
+[Resources](resources.md)
