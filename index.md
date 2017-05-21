@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## My 30 day Rails Challenge
+I've been trying to learn Rails on and off for a few months.  I've read some books, watched a ton of Youtube videos, joined some developer forums for new Rails programmers, and read countless blog posts and articles.  I created some basic web apps (yep, even the infamous blog), but haven't devoted enough consistent learning to go much further.  That said, I'm doing a personal 30 day challenge to push myself to deepen my learning.
 
-You can use the [editor on GitHub](https://github.com/wmcraver/wmcraver.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Rules: 
+1. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
