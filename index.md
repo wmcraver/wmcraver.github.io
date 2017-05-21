@@ -9,5 +9,5 @@ My plan is to perform a daily update via an entry on this site to document my jo
 ### Daily Entries
 [Daily Entries](entries.md)
 
-### Resources I've Used
+### Resources Used
 [Resources](resources.md)
