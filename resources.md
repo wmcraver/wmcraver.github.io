@@ -7,3 +7,4 @@
 - Adding Google Analytics to Rails 5 app - [Using Google Analytics with Rails 5 and Turbolinks 5](https://gist.github.com/esBeee/545653241530f8f2c2e16371bec56f20)
 - DriftingRuby - [Charts and Graphs (screencast)](https://www.driftingruby.com/episodes/charts-and-graphs)
 - Rails Guides - [Rails Application Templates](http://guides.rubyonrails.org/rails_application_templates.html)
+- Rails Application Templates in the Real World - [Rails Application Templates in the Real World](https://www.sitepoint.com/rails-application-templates-real-world/)
