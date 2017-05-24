@@ -2,7 +2,7 @@
 
 **Day 3**
 
-Day three and almost no progress.  Today was my birthday and I had a lot going on at work.  Then, we went to a baseball game for the evening.  While I was at work on lunch, I read about rails templates that allow you to specify options for new rails applications.  Pretty cool.  Hopefuilly tomorrow will go better and I will be able to create something.
+Day three and almost no progress.  Today was my birthday and I had a lot going on at work.  Then, we went to a baseball game for the evening.  While I was at work on lunch, I read about rails templates that allow you to specify options for new rails applications.  Pretty cool.  Hopefully tomorrow will go better and I will be able to create something.
 
 
 **Day 2**
