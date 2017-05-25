@@ -8,3 +8,4 @@
 - DriftingRuby - [Charts and Graphs (screencast)](https://www.driftingruby.com/episodes/charts-and-graphs)
 - Rails Guides - [Rails Application Templates](http://guides.rubyonrails.org/rails_application_templates.html)
 - Rails Application Templates in the Real World - [Rails Application Templates in the Real World](https://www.sitepoint.com/rails-application-templates-real-world/)
+- Populating form fields with database data - [https://stackoverflow.com/questions/8907867/can-someone-explain-collection-select-to-me-in-clear-simple-terms](https://stackoverflow.com/questions/8907867/can-someone-explain-collection-select-to-me-in-clear-simple-terms)
