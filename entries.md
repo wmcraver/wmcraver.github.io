@@ -1,14 +1,19 @@
 ### Daily Entries
 
 **Day 6 - Friday, May 26, 2017**
+
 Today I was working on adding bootstrap to make things look pretty, but then I quickly realized that I shouldn't be focusing no making things look pretty when I haven't got anything to prettify.  Back to working on functionality.
 
+
 **Day 5 - Thursday, May 25, 2017**
+
 More of the same.  However, today I started working on a simple issue tracker web app.  Simple CRUD operations using scaffolding for the setup.  
+
 
 **Day 4 - Wednesday, May 24, 2017**
 
 Essentially nothing.  Making time to learn on my lunch break and after work is more difficult than I expected.  At lunch, I learned about creating form fields populated with data from a database using the [collection_select method](https://stackoverflow.com/questions/8907867/can-someone-explain-collection-select-to-me-in-clear-simple-terms).
+
 
 **Day 3 - Tuesday, May 23, 2017**
 
